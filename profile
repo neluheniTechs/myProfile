@@ -89,7 +89,7 @@
         <div class="page"></div>
       </div>
     </div>
-    <h1>INORMATICS - ICT :221077717@tut4life.ac.za</h1>
+    <h1>INFORMATICS - ICT :221077717@tut4life.ac.za</h1>
   </header>
 
   <script>
@@ -212,6 +212,14 @@
 	  <p></p>
       <p>Tshwane University of Technology : 2020-2023</p>
       <p>Diploma in Informatics ICT</p>
+    </div>
+
+</div>
+	    <div class="profile">
+      <h2>Work exprience :</h2>
+      <p>Business Analyst:  01 Aug 2023 
+<p> ICEP </p>
+	  
     </div>
 
     <div class="profile">
